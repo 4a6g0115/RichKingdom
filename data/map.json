@@ -1,0 +1,179 @@
+[
+    {
+        "id": 0,
+        "name": "起點",
+        "type": "START"
+    },
+    {
+        "id": 1,
+        "name": "台北",
+        "type": "LAND",
+        "price": 600,
+        "rent": 120
+    },
+    {
+        "id": 2,
+        "name": "事件",
+        "type": "EVENT"
+    },
+    {
+        "id": 3,
+        "name": "新北",
+        "type": "LAND",
+        "price": 700,
+        "rent": 140
+    },
+    {
+        "id": 4,
+        "name": "銀行",
+        "type": "BANK"
+    },
+    {
+        "id": 5,
+        "name": "桃園",
+        "type": "LAND",
+        "price": 800,
+        "rent": 160
+    },
+    {
+        "id": 6,
+        "name": "商店",
+        "type": "SHOP"
+    },
+    {
+        "id": 7,
+        "name": "新竹",
+        "type": "LAND",
+        "price": 900,
+        "rent": 180
+    },
+
+    {
+        "id": 8,
+        "name": "苗栗",
+        "type": "LAND",
+        "price": 1000,
+        "rent": 200
+    },
+    {
+        "id": 9,
+        "name": "事件",
+        "type": "EVENT"
+    },
+    {
+        "id": 10,
+        "name": "台中",
+        "type": "LAND",
+        "price": 1100,
+        "rent": 220
+    },
+    {
+        "id": 11,
+        "name": "彰化",
+        "type": "LAND",
+        "price": 1200,
+        "rent": 240
+    },
+    {
+        "id": 12,
+        "name": "休息",
+        "type": "FREE"
+    },
+    {
+        "id": 13,
+        "name": "南投",
+        "type": "LAND",
+        "price": 1300,
+        "rent": 260
+    },
+
+    {
+        "id": 14,
+        "name": "雲林",
+        "type": "LAND",
+        "price": 1400,
+        "rent": 280
+    },
+    {
+        "id": 15,
+        "name": "嘉義",
+        "type": "LAND",
+        "price": 1500,
+        "rent": 300
+    },
+    {
+        "id": 16,
+        "name": "銀行",
+        "type": "BANK"
+    },
+    {
+        "id": 17,
+        "name": "台南",
+        "type": "LAND",
+        "price": 1600,
+        "rent": 320
+    },
+    {
+        "id": 18,
+        "name": "高雄",
+        "type": "LAND",
+        "price": 1700,
+        "rent": 340
+    },
+    {
+        "id": 19,
+        "name": "事件",
+        "type": "EVENT"
+    },
+    {
+        "id": 20,
+        "name": "屏東",
+        "type": "LAND",
+        "price": 1800,
+        "rent": 360
+    },
+    {
+        "id": 21,
+        "name": "監獄",
+        "type": "JAIL"
+    },
+
+    {
+        "id": 22,
+        "name": "宜蘭",
+        "type": "LAND",
+        "price": 1900,
+        "rent": 380
+    },
+    {
+        "id": 23,
+        "name": "花蓮",
+        "type": "LAND",
+        "price": 2000,
+        "rent": 400
+    },
+    {
+        "id": 24,
+        "name": "商店",
+        "type": "SHOP"
+    },
+    {
+        "id": 25,
+        "name": "台東",
+        "type": "LAND",
+        "price": 2100,
+        "rent": 420
+    },
+    {
+        "id": 26,
+        "name": "事件",
+        "type": "EVENT"
+    },
+    {
+        "id": 27,
+        "name": "基隆",
+        "type": "LAND",
+        "price": 2200,
+        "rent": 440
+    }
+]

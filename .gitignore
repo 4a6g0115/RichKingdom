@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Build
+build/
+dist/
+
+# Executable
+*.exe
+
+# Logs
+*.log
+
+# Saves
+saves/*.json
+saves/*.sav
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python cache
+.pytest_cache/
+.mypy_cache/
+
+# Images generated during development
+*.psd
+*.xcf
+
+# Temporary
+temp/
+tmp/
