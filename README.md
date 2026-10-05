@@ -25,6 +25,4 @@ python main.py
 
 ## Version
 
-Current Version
-
-Alpha 0.20
+Alpha 0.20 Stable
